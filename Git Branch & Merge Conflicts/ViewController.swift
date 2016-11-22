@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    var DeveloperBAddedAString: String = ""
     var someClass:String!
 
     override func viewDidLoad() {
