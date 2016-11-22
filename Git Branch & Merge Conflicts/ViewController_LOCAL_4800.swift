@@ -19,8 +19,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         if let abc = someClass {
             print (abc)
-            print ("Developer A added Something again")
-            DeveloperBAddedAString = "nothing"
+            print ("developer B added")
         }
     }
 

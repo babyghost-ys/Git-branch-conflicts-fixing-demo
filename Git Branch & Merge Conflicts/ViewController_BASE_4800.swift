@@ -15,12 +15,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //ok by developer B
         // Do any additional setup after loading the view, typically from a nib.
         if let abc = someClass {
             print (abc)
-            print ("Developer A added Something again")
-            DeveloperBAddedAString = "nothing"
         }
     }
 
