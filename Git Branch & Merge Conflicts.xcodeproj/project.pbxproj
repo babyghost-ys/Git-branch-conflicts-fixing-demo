@@ -13,6 +13,7 @@
 		AA2DA8D71DE45B020010DA78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA2DA8D61DE45B020010DA78 /* Assets.xcassets */; };
 		AA2DA8DA1DE45B020010DA78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA2DA8D81DE45B020010DA78 /* LaunchScreen.storyboard */; };
 		AA2DA8E21DE45B7A0010DA78 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2DA8E11DE45B7A0010DA78 /* CustomButton.swift */; };
+		AA2DA8E41DE45D0E0010DA78 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2DA8E31DE45D0E0010DA78 /* Post.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AA2DA8D91DE45B020010DA78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA2DA8DB1DE45B020010DA78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA2DA8E11DE45B7A0010DA78 /* CustomButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		AA2DA8E31DE45D0E0010DA78 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				AA2DA8D81DE45B020010DA78 /* LaunchScreen.storyboard */,
 				AA2DA8DB1DE45B020010DA78 /* Info.plist */,
 				AA2DA8E11DE45B7A0010DA78 /* CustomButton.swift */,
+				AA2DA8E31DE45D0E0010DA78 /* Post.swift */,
 			);
 			path = "Git Branch & Merge Conflicts";
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				AA2DA8D21DE45B020010DA78 /* ViewController.swift in Sources */,
 				AA2DA8D01DE45B020010DA78 /* AppDelegate.swift in Sources */,
 				AA2DA8E21DE45B7A0010DA78 /* CustomButton.swift in Sources */,
+				AA2DA8E41DE45D0E0010DA78 /* Post.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +308,7 @@
 				AA2DA8E01DE45B020010DA78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         if let abc = someClass {
             print (abc)
             print ("Developer A added Something again")
+            DeveloperBAddedAString = "nothing"
         }
     }
 
